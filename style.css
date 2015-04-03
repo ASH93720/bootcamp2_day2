@@ -1,0 +1,14 @@
+.box{
+	content: "";
+	position: absolute;
+	opacity: 1;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	color: white;
+	background-color: green;
+	background: url(http://www.lorempixel.com/1000/1000)no-repeat fixed center;
+	background-size: cover;
+
+]
